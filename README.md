@@ -2,7 +2,8 @@ Welcome To Team Conagher Racing's Virtual Garage
 ===
 Garage Section 1 About Us:
 
-    The about us section is a simple overview on what Conagher Racing is and it's members. The section presents a small summary and description about all the members.
+The about us section is a simple overview on what Conagher Racing is and it's members. The section presents a small summary and description about all the members.
+
 Garage Section 2 Team Photos:
 
 As the name suggests, the team photos section is where all our team photos taken during competitions go to, available for anyone to see.

@@ -11,11 +11,18 @@ Now in the documentation you'll see him commonly refered to as V. Juan or THE MA
 
 V.Juan or S.P. V.Juan:
 This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
- S.P. 
-(This is the controller or procesor that is being used)
+S.P. 
 
- V.
-(The word version)
+This is the controller or procesor that is being used
 
- Juan
-(This is the actual version of our robot and it's meant to be a funny way of saying the number of version we are on, Juan for one, 
+V.
+
+The word version
+
+Juan
+
+This is the actual version of our robot and it's meant to be a funny way of saying the number of version we are on, Juan for one, Chew for two, etc.
+
+THE MACHINE
+
+This refers to the robot in a generic form, not a specific version but it's still a valid name.

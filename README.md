@@ -6,11 +6,11 @@ We are Conagher Racing, a small two-man team from the Benjamin Harrison Highscho
 
 Now that we've got that out of the way, let's explain a few things before we go on:
 
-1. The robot's naming scheme:
-Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
+    1. The robot's naming scheme:
+    Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
 
-V.Juan or S.P. V.Juan:
-This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
+    V.Juan or S.P. V.Juan:
+    This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
 
     S.P. 
     This is the controller or procesor that is being used

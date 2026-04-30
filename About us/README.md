@@ -10,4 +10,4 @@ Hi, I'm Luis D. Aponte Colón, I the mechanical work on THE MACHINE, along with 
 Guy on the right, César:
 Hello, im César J. García Ortiz, I am the rookie programmer of Conagher Racing, and am tasked mostly with coming up with ideas or strategies in where our robot could prevail in competitions. Im open minded and not afraid to show my perspective on things. Well, uh, ththat's me!
 
-![!\[Description\](1st place at robinson.jpg)](<IMG_531.JPG>)
+![!\[Description\](IMG_531.jpg)](<IMG_531.JPG>)

@@ -4,7 +4,7 @@ About THE MACHINE
 <table>
     <tr>
         <td>
-            <img src="About THE MACHINE/IMG_1599.jpg">
+            <img src="IMG_1599.jpg">
         </td>
         <td>
             <img src="About THE MACHINE/IMG_1600.jpg">

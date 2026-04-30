@@ -1,6 +1,8 @@
 About THE MACHINE
 ====
 
+<img src="IMG_1598.jpg">
+This little goofy guy is V. Juan, our current robot for the WRO Future Engineers category
 <table>
     <tr>
         <td>

@@ -7,3 +7,6 @@ This little goofy guy is V. Juan, our current robot for the WRO Future Engineers
 
 He's on some sick x cm by x cm 7 spoke rims for 1/10 scale rc cars of Aliexpress which can be bought here (https://www.aliexpress.com/i/1005010007257755.html P.S. DON'T BUY REAL CAR RIMS FROM ALIEXPRESS THEY WILL SHATTER ON YOU):
 <img src="IMG_1600.jpg">
+
+He measures in at x cm in height, y cm in width and z cm depth
+<img src="IMG_1600.jpg">

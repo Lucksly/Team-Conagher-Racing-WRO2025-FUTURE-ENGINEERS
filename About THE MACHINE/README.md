@@ -10,3 +10,4 @@ He's on some sick x cm by x cm 7 spoke rims for 1/10 scale rc cars of Aliexpress
 
 He measures in at x cm in height, y cm in width and z cm depth
 <img src="IMG_1600.jpg">
+<img src="IMG_1600.jpg">

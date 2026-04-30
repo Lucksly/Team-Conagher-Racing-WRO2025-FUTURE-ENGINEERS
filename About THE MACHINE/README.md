@@ -1,4 +1,27 @@
-Vehicle's photos
+About THE MACHINE
 ====
 
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
+<table>
+    <tr>
+        <td>
+            <img src="About THE MACHINE/IMG_1599.jpg">
+        </td>
+        <td>
+            <img src="About THE MACHINE/IMG_1600.jpg">
+        </td>
+                <td>
+        <img src="About THE MACHINE/IMG_1601.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="About THE MACHINE/IMG_1599.jpg">
+        </td>
+        <td>
+            <img src="About THE MACHINE/IMG_1600.jpg">
+        </td>
+                <td>
+        <img src="About THE MACHINE/IMG_1601.jpg">
+        </td>
+    </tr>
+</table>

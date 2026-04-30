@@ -23,3 +23,11 @@ Now that we've got that out of the way, let's explain a few things before we go 
 
     THE MACHINE
     This refers to the robot in a generic form, not a specific version but it's still a valid name.
+
+So, we've gotten that out of the way, what's inside each folder:
+
+The About Us folder just has a quick description of the team along with the 2 pictures of us.
+
+The 3D Models folder contains the sources for the 3D models used on THE MACHINE.
+
+The About THE MACHINE folder contains all the pictures along side a description of THE MACHINE 

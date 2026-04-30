@@ -6,23 +6,23 @@ We are Conagher Racing, a small two-man team from the Benjamin Harrison Highscho
 
 Now that we've got that out of the way, let's explain a few things before we go on:
 
-    1. The robot's naming scheme:
-    Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
+1. The robot's naming scheme:
+Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
 
-    V.Juan or S.P. V.Juan:
-    This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
+V.Juan or S.P. V.Juan:
+This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
 
-    S.P. 
-    This is the controller or procesor that is being used
+S.P. 
+This is the controller or procesor that is being used
     
-    V.
-    The word version
+V.
+The word version
 
-    Juan
-    This is the actual version of our robot and it's meant to be a funny way of saying the number of version we are on, Juan for one, Chew for two, etc.
+Juan
+This is the actual version of our robot and it's meant to be a funny way of saying the number of version we are on, Juan for one, Chew for two, etc.
 
-    THE MACHINE
-    This refers to the robot in a generic form, not a specific version but it's still a valid name.
+THE MACHINE
+This refers to the robot in a generic form, not a specific version but it's still a valid name.
 
 So, we've gotten that out of the way, what's inside each folder:
 
@@ -30,4 +30,8 @@ The About Us folder just has a quick description of the team along with the 2 pi
 
 The 3D Models folder contains the sources for the 3D models used on THE MACHINE.
 
-The About THE MACHINE folder contains all the pictures along side a description of THE MACHINE 
+The About THE MACHINE folder contains all the pictures along side a description of THE MACHINE.
+
+The secret sauce folder contains all of the programs that have been made for THE MACHINE.
+
+The Schematics and Diagrams folder contains, as the name suggests, schematics and diagrams of THE MACHINE.

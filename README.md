@@ -6,7 +6,7 @@ We are Conagher Racing, a small two-man team from the Benjamin Harrison Highscho
 
 Now that we've got that out of the way, let's explain a few things before we go on:
 
-1. The robot's naming scheme:
+The robot's naming scheme:
 Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
 
 V.Juan or S.P. V.Juan:
@@ -34,4 +34,5 @@ The About THE MACHINE folder contains all the pictures along side a description 
 
 The secret sauce folder contains all of the programs that have been made for THE MACHINE.
 
-The Schematics and Diagrams folder contains, as the name suggests, schematics and diagrams of THE MACHINE.
+[The Schematics and Diagrams](Schematics and
+ Diagrams/README.md) folder contains, as the name suggests, schematics and diagrams of THE MACHINE.

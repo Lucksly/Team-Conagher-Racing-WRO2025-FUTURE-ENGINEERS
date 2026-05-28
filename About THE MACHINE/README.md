@@ -36,7 +36,7 @@ He measures in at 8.8 cm in height, 19.2 cm in width and 28.8 cm depth and weigh
     </tr>
 </table>
 
-He's composed of the following parts:
+He's composed of the following electronic parts:
 <table>
     <tr>
         <td>

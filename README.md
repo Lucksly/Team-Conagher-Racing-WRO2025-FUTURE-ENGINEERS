@@ -2,7 +2,7 @@ Welcome To Team Conagher Racing's Virtual Garage
 ===
 Now before we get into anything, who are we?
 
-We are Conagher Racing, a small two-man team from the Benjamin Harrison Highschool in Cayey, Puerto Rico with a passion for robots. We participate in the Future Engineers category of the World Robot Olympiad and we both strive to reach great places in the near future.
+We are Conagher Racing, a three-man team from the Benjamin Harrison Highschool in Cayey, Puerto Rico with a passion for robots. We participate in the Future Engineers category of the World Robot Olympiad and we both strive to reach great places in the near future.
 
 Now that we've got that out of the way, let's explain a few things before we go on:
 
@@ -26,13 +26,12 @@ This refers to the robot in a generic form, not a specific version but it's stil
 
 So, we've gotten that out of the way, what's inside each folder:
 
-The About Us folder just has a quick description of the team along with the 2 pictures of us.
+[The About Us](About%20us/README.md) folder just has a quick description of the team along with the 2 pictures of us.
 
-The 3D Models folder contains the sources for the 3D models used on THE MACHINE.
+[The 3D Models](3D%20Models/README.md) folder contains the sources for the 3D models used on THE MACHINE.
 
-The About THE MACHINE folder contains all the pictures along side a description of THE MACHINE.
+[The About THE MACHINE](About%20THE%20MACHINE/README.md) folder contains all the pictures along side a description of THE MACHINE.
 
-The secret sauce folder contains all of the programs that have been made for THE MACHINE.
+[The secret sauce](The%20secret%20sauce/README.md) folder contains all of the programs that have been made for THE MACHINE.
 
-[The Schematics and Diagrams](Schematics and
- Diagrams/README.md) folder contains, as the name suggests, schematics and diagrams of THE MACHINE.
+[The Schematics and Diagrams](Schematics%20and%20Diagrams/README.md) folder contains, as the name suggests, schematics and diagrams of THE MACHINE.

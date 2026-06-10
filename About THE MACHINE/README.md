@@ -19,7 +19,7 @@ He measures in at 8.8 cm in height, 19.2 cm in width and 28.8 cm depth and weigh
             <img src="V. Juan pictures/IMG_1601.jpg"> Right Side
         </td>
                 <td>
-        <img height="75" width="400000" src="V. Juan pictures/IMG_E1619.JPG"> Rear
+        <img src="V. Juan pictures/IMG_E1619.JPG"> Rear
         </td>
     </tr>
     <tr>
@@ -105,13 +105,13 @@ He measures in at x cm long, y cm wide and z cm tall he's equiped with the same 
 <table>
     <tr>
         <td>
-            <img src="V. Juan pictures/IMG_1599.jpg"> Front
+            <img src="V. Chew pictures/IMG_E1811.JPG"> Front
         </td>
         <td>
-            <img src="V. Juan pictures/IMG_1601.jpg"> Right Side
+            <img src="V. Chew pictures/IMG_E1812.JPG"> Right Side
         </td>
                 <td>
-        <img height="75" width="400000" src="V. Juan pictures/IMG_E1619.JPG"> Rear
+        <img src="V. Chew pictures/IMG_E1813.JPG"> Rear
         </td>
     </tr>
     <tr>

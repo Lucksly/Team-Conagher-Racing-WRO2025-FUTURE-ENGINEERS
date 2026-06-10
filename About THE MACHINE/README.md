@@ -99,3 +99,30 @@ V. Chew:
 This, is THE MACHINE'S evolved state, V. Chew, the changes are few but practical, mainly, he's shorter and is now programed in micropython via pybricks.
 
 <img height="250" width="520" src="V. Chew pictures/IMG_E1810.JPG">
+
+He measures in at x cm long, y cm wide and z cm tall he's equiped with the same wheels and electronic components as V. Juan, so they aren't that different from one another.
+
+<table>
+    <tr>
+        <td>
+            <img src="V. Juan pictures/IMG_1599.jpg"> Front
+        </td>
+        <td>
+            <img src="V. Juan pictures/IMG_1601.jpg"> Right Side
+        </td>
+                <td>
+        <img height="75" width="400000" src="V. Juan pictures/IMG_E1619.JPG"> Rear
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="V. Chew pictures/IMG_E1814.JPG"> Left Side 
+        </td>
+        <td>
+            <img src="V. Chew pictures/IMG_E1815.JPG"> Top Down 
+        </td>
+                <td>
+        <img src="V. Chew pictures/IMG_E1816.JPG"> Bottom Up
+        </td>  
+    </tr>
+</table>

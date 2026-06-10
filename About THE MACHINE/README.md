@@ -1,38 +1,39 @@
 About THE MACHINE
 ====
+V. Juan:
 
-This little goofy guy is V. Juan, our current robot for the WRO Future Engineers category.
+This little goofy guy is V. Juan, our first robot for the WRO Future Engineers category.
 
-<img height="256" width="520" src="IMG_1598.jpg">
+<img height="256" width="520" src="V. Juan pictures/IMG_1598.jpg">
 
 He's on some sick 52 mm by 26.4 mm 7 spoke rims for 1/10 scale rc cars off Aliexpress which can be bought here (https://www.aliexpress.com/i/1005010007257755.html P.S. DON'T BUY REAL CAR RIMS FROM ALIEXPRESS THEY WILL SHATTER ON YOU):
-<img src="IMG_1600.jpg">
+<img src="V. Juan pictures/IMG_1600.jpg">
 
 He measures in at 8.8 cm in height, 19.2 cm in width and 28.8 cm depth and weighs in at 793.78 grams
 <table>
     <tr>
         <td>
-            <img src="IMG_1599.jpg"> Front
+            <img src="V. Juan pictures/IMG_1599.jpg"> Front
         </td>
         <td>
-            <img src="IMG_1601.jpg"> Right Side
+            <img src="V. Juan pictures/IMG_1601.jpg"> Right Side
         </td>
                 <td>
-        <img height="75" width="400000" src="IMG_E1619.JPG"> Rear
+        <img height="75" width="400000" src="V. Juan pictures/IMG_E1619.JPG"> Rear
         </td>
     </tr>
     <tr>
         <td>
-            <img src="IMG_1602.jpg"> Left Side w/ measurements
+            <img src="V. Juan pictures/IMG_1602.jpg"> Left Side w/ measurements
         </td>
         <td>
-            <img src="IMG_1603.jpg"> Top Down w/ measurements
+            <img src="V. Juan pictures/IMG_1603.jpg"> Top Down w/ measurements
         </td>
                 <td>
-        <img src="IMG_1604.jpg"> Bottom Up
+        <img src="V. Juan pictures/IMG_1604.jpg"> Bottom Up
         </td>
                 <td>
-        <img src="IMG_1606.jpg"> Chasis without electronic components    
+        <img src="V. Juan pictures/IMG_1606.jpg"> Chasis without electronic components    
     </tr>
 </table>
 
@@ -92,3 +93,9 @@ He's composed of the following electronic parts:
     </tr>
 </table>
 Source: https://education.lego.com/en-us/product-resources/spike-prime/downloads/technical-specifications/ 
+
+V. Chew:
+
+This, is THE MACHINE'S evolved state, V. Chew, the changes are few but practical, mainly, he's shorter and is now programed in micropython via pybricks.
+
+<img height="250" width="520" src="V. Chew pictures/IMG_E1810.JPG">

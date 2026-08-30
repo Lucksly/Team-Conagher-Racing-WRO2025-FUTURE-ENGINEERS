@@ -100,7 +100,7 @@ This, is THE MACHINE'S evolved state, V. Chew, the changes are few but practical
 
 <img height="250" width="520" src="V. Chew pictures/IMG_E1810.JPG">
 
-He measures in at x cm long, y cm wide and z cm tall he's equiped with the same wheels and electronic components as V. Juan, so they aren't that different from one another.
+He measures in at 24.5 cm long, 19.5 cm wide and 10.5 cm tall he's equiped with the same wheels and electronic components as V. Juan, so they aren't that different from one another.
 
 <table>
     <tr>
@@ -126,3 +126,15 @@ He measures in at x cm long, y cm wide and z cm tall he's equiped with the same 
         </td>  
     </tr>
 </table>
+
+V. Chew Upgrades
+===
+The measurements haven't changed, although some components have been changed:
+
+Wheels:
+    
+We now use 3d printed Enkei RPF1 rims which can be found [here](https://cults3d.com/en/3d-model/game/1-10-rc-rim-rpf1)
+
+Electronics:
+
+We have removed the Lego Spike Color Sensor due to its limited range, in its place originally there was going to be a [Cytron Maker Pi RP2040](https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040) but the one we had sourced from our coach had a missing grove port, and we had attempted to use a different grove port to have [UART](https://docs.micropython.org/en/latest/reference/glossary.html#term-UART) but the GP0 pad started lifting from the side that was connected to the trace so we decided to instead use a [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) provided by our coach, which we might mount to the robot using Cytron's [Robo Pico](https://www.cytron.io/p-robo-pico) but also means that THE MACHINE'S full name is now S.P.P2. V. sChew, but we just call him V. Chew cause why not. Currentlly in testing we've been using the Pico2 with a [APDS-9960](https://learn.sparkfun.com/tutorials/apds-9960-rgb-and-gesture-sensor-hookup-guide/all) conmected via [I2C](https://docs.micropython.org/en/latest/library/machine.I2C.html) which was also provided by our coach although we are considering a camera so we can have higher accuracy for detecing obstacles and the parking.

@@ -9,7 +9,7 @@ Now that we've got that out of the way, let's explain a few things before we go 
 The robot's naming scheme:
 Now in the documentation you'll see him commonly refered to as V. Juan or THE MACHINE or a similar name, well these all refer to different things like:
 
-V.Juan or S.P. V.Juan:
+V.(funny word play on the version number), S.P. V.(funny word play):
 This is refering to version one of the robot and is how we'll be talking about every specific version of our robot, it's organized in a very specific way:
 
 S.P. 
@@ -18,7 +18,7 @@ This is the controller or procesor that is being used
 V.
 The word version
 
-Juan
+(funny word play)
 This is the actual version of our robot and it's meant to be a funny way of saying the number of version we are on, Juan for one, Chew for two, etc.
 
 THE MACHINE
@@ -35,3 +35,5 @@ So, we've gotten that out of the way, what's inside each folder:
 [The secret sauce](The%20secret%20sauce/README.md) folder contains all of the programs that have been made for THE MACHINE.
 
 [The Schematics and Diagrams](Schematics%20and%20Diagrams/README.md) folder contains, as the name suggests, schematics and diagrams of THE MACHINE.
+
+Btw, we have a [Youtube Channel](https://www.youtube.com/@TeamConagherRacing) where we might post stuff so stay tunned.

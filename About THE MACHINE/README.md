@@ -133,7 +133,7 @@ The measurements haven't changed, although some components have been changed:
 
 Wheels:
     
-We now use 3d printed Enkei RPF1 rims which can be found [here](https://cults3d.com/en/3d-model/game/1-10-rc-rim-rpf1)
+We now use 3d printed Enkei RPF1 rims for weight saving purposes which can be found [here](https://cults3d.com/en/3d-model/game/1-10-rc-rim-rpf1)
 
 Electronics:
 
